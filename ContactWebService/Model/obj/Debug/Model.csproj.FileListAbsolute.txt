@@ -1,0 +1,6 @@
+F:\Github.com\My-Demo-Projects\ContactWebService\Model\bin\Debug\Model.dll
+F:\Github.com\My-Demo-Projects\ContactWebService\Model\bin\Debug\Model.pdb
+F:\Github.com\My-Demo-Projects\ContactWebService\Model\bin\Debug\Newtonsoft.Json.dll
+F:\Github.com\My-Demo-Projects\ContactWebService\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\Github.com\My-Demo-Projects\ContactWebService\Model\obj\Debug\Model.dll
+F:\Github.com\My-Demo-Projects\ContactWebService\Model\obj\Debug\Model.pdb
